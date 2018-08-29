@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adrian Russell-Falla's CV
 ---
-# Isaac Newton
+# Adrian Russell-Falla
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="adrianrf@gmail.com">adrianrf@gmail.com</a>
+| <a href="http://github.com/adrianrf/markdown-cv">Online CV/Résumé</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Standing on the shoulders of giants…
 
 ### Specialized in
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2018 -->
 
 
