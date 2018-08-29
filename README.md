@@ -1,12 +1,3 @@
-markdown-cv
-===========
-
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
-
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
-
-***
-
 ## Usage
 
 To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
@@ -31,14 +22,12 @@ To transform your plain text CV into a beautiful looking HTML page and share it 
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-
 ## 2) Build it locally and print a PDF
 1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
 2. Clone your fork on your computer
 3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
 4. You can edit the `index.md` file and see changes live in your browser.
 5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
-
 
 ### Change the style
 
