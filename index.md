@@ -6,24 +6,18 @@ title: Adrian Russell-Falla's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="adrianrf@gmail.com">adrianrf@gmail.com</a>
-| <a href="http://github.com/adrianrf/markdown-cv">Online CV/Résumé</a>
+<a href="adrianrf@gmail.com">My email</a>
+| <a href="https://github.com/adrianrf/markdown-cv/blob/master/index.md">My CV/Résumé</a>
 </div>
 
-
 ## Currently
-
 Standing on the shoulders of giants…
 
 ### Specialized in
-
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
 ### Research interests
-
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
@@ -38,9 +32,6 @@ __Trinity College, Cambridge__
 `1667 - death`
 __Trinity College, Cambridge__
 
-- Fellow
-
-
 
 ## Awards
 
@@ -49,21 +40,6 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
@@ -78,10 +54,6 @@ __Royal Mint__, London
 
 - Warden
 - Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
