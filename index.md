@@ -7,7 +7,7 @@ Serial entrepreneur & devotee of Sun-Tzu's manifesto "The Art of War". Excels at
 
 <div id="webaddress">
 <a href="adrianrf@gmail.com">My email</a>
-| <a href="http://bit.ly/ADRIANRF-CV">My CV/Résumé</a>
+| <a href="http://bit.ly/adrianrf-CV">My CV/Résumé</a>
 </div>
 
 ### Specialized in
@@ -48,7 +48,36 @@ __Portland State University, Portland OR USA.__
 __Lewis & Clark College, Portland OR USA.__
 
 
-## Work History ##
+
+## Work: Politics ##
+
+`Sep 2016-Nov 2016`
+__Chloe Eudaly For City Council__, Portland, OR
+- Fulfilment Lead
+- Reported to Campaign Manager. Responsible for all door-to-door deliveries of collateral merchandise (T-shirts, buttons, etc.) and lawn signs to campaign donors. Fine-tuned CRM/fulfillment system functionality, transforming item order stream into inventory pick-lists & optimized delivery routes. All materials delivered via solar-PV-fueled zero-emissions Electric Vehicle.
+
+`Mar 2004–Nov 2004`
+__GoPotterGo!-PAC__, Portland, OR
+- Organizer
+- Formed independent Political Action Committee, successfully propelling under-funded underdog mayoral candidate to victory. Raised funds; implemented guerrilla communications strategy, including full e-commerce; implemented PR campaign; designed creative; placed media buys; complied with all electoral regulations and reporting requirements. Result (Primary): executed $6K media spend in last 2 weeks (official campaign couldn't afford media). In 3 weeks from last published poll to ballot, swung race 11 pts to candidate, snatching 1st place from highly-funded "incumbent" opponent. Result (General): an October poll flagged that complacent post-Primary campaigning had completely eroded candidate's early lead. I immediately raised additional funds, and conceived & executed $8K GOTV/brand-association doorhanger campaign, reaching 35K households on opening weekend of vote-by-mail cycle. My PAC's highly-controversial cross-race endorsement captured a full week's news cycle&mdash;snatching easily $40K+ of earned media, taking my candidate to a 23-point victory (and earning the cross-race endorsee his seat too).
+
+`Mar 2004–May 2004`
+__Frank Dixon for City Council__, Portland, OR
+- Campaign Manager
+- Hired in last 8 weeks of Primary by 1 of 6 neighborhood "protest candidates" independently challenging an aggressively-funded City Council incumbent. Full campaign responsibility, reporting directly to candidate, for communications strategy: built & deployed display-ad and direct-mail creative & collaterals; placed media; built full e-commerce (Drupal); and executed PR campaign. Result: candidate just missed 1st place, by a tiny margin. We were proud of our principled, honorable campaign; but we'd started fractionally too late for victory.
+
+`Dec 2003–Mar 2004`
+__Tom For Mayor Campaign__, Portland, OR
+- Marketing/Outreach Director
+- Worked directly with campaign manager & candidate in come-from-behind Primary (candidate declared he'd accept no more than $20 from any donor.) Conceived & implemented successful merchandising program; conceived & implemented successful web presence, including full e-commerce; conceived & implemented most campaign collaterals. Official Campaign Plan hinged on sufficent key constituency support to afford late-stage ad buy, to establish minimum voter perception of viability; I rapidly found reality did not conform to Plan. Resigned, formed GoPotterGo!-PAC to bypass income limitations of official campaign via external resources.
+
+
+`1987-1988`
+__Guernsey Anti-Apartheid Group__, Guernsey, Channel Islands (UK)
+- Organizer
+- Joining in minimally-organized grass-roots street protest of visit by South African apartheid regime's Ambassador to London to Guernsey, then a major offshore finance center, I learned we had no formal AA organization; founded GAAG 48 hrs later. Immediately affiliated to UK national AA movement. Created & drove guerrilla PR strategy based on McLuhan's "The Medium is the Massage"; our key messaging strategy emphasized rapid growth of an unprecedentedly diverse base. In 12 months, our __paid__ member base outgrew 10-yr-old Greenpeace chapter; hailed as fastest-growing AA chapter in UK; we also expelled offshore deposits of > 20M Rand from local banks, after fund managers began advising SA clients their funds risked imminent seizure.
+
+## Work: Business ##
 
 `2015–2017`
 __Jewett-Cameron Trading Company Ltd. (NASDAQ: JCTCF)__, North Plains, OR
@@ -85,23 +114,6 @@ __Liquid Markets, Inc.__, Portland, OR
 - CEO/Co-Founder
 - Raised $160K in venture capital in 90 days [on track for $1M total in next 60 days] at idea-stage company, using only a PowerPoint deck to woo & win commitment from a technology billionaire/Google seed investor. I apparently made it look so easy that the Founder/Majority shareholder was inspired to take over from there, since the venture's success was now clearly assured. Googling "Darple" (later branding) suggests otherwise…
 
-`Mar 2004–Nov 2004`
-__GoPotterGo!-PAC__, Portland, OR
-- Organizer
-- Formed independent Political Action Committee, successfully propelling underdog mayoral candidate to victory in both Primary, General election cycles.
-Raised funds; implemented guerrilla communications strategy, including full e-commerce; implemented PR campaign; designed creative; placed media buys. Result (Primary): executed $6K media spend in last 2 weeks (official campaign couldn't afford media). In 3 weeks from last published poll to ballot, swung race 11 pts to candidate, snatching 1st place from highly-funded "incumbent" opponent. Result (General): an October poll flagged that complacent post-Primary campaigning had completely eroded candidate's early lead. I immediately raised additional funds, and conceived & executed $8K GOTV/brand-association doorhanger campaign, reaching 35K households on opening weekend of vote-by-mail cycle. My PAC's highly-controversial cross-race endorsement captured a full week's news cycle—snatching easily $40K+ of earned media. We took a 23-point victory.
-
-`Mar 2004–May 2004`
-__Frank Dixon for City Council__, Portland, OR
-- Campaign Manager
-- Hired in last 8 weeks of Primary by 1 of 6 neighborhood "protest candidates" independently challenging an aggressively-funded City Council incumbent. Full campaign responsibility, reporting directly to candidate, for communications strategy: built & deployed display-ad and direct-mail creative & collaterals; placed media; built full e-commerce (Drupal); and executed PR campaign. Result: candidate just missed 1st place, by a tiny margin. We were proud of our principled, honorable campaign; but we'd started fractionally too late for victory.
-
-`Dec 2003–Mar 2004`
-__Tom For Mayor Campaign__, Portland, OR
-- Marketing/Outreach Director
-- Worked directly with campaign manager & candidate in come-from-behind Primary. 
-- Conceived & implemented successful merchandising program; conceived & implemented successful web presence, including full e-commerce; conceived & implemented most campaign collaterals. Resigned to form GoPotterGo!-PAC, surmounting fatal self-limits of official campaign organization, to decisively advance candidate's cause via external resources.
-
 `2004`
 __Lightfleet Corporation__, Vancouver, WA
 - Corporate Communications Manager
@@ -129,11 +141,6 @@ __Now Software, Inc.__, Portland, OR
 
 ## Not-For-Profit ##
 
-`2016`
-__Chloe Eudaly For City Council__, Portland, OR
-- Fulfilment Lead
-- Reported to Campaign Manager. Responsible for all door-to-door deliveries of collateral merchandise (T-shirts, buttons, etc.) and lawn signs to campaign donors. Fine-tuned CRM/fulfillment system functionality, transforming item order stream into inventory pick-lists & optimized delivery routes. Delivered all materials via solar-PV-fueled zero-emissions Electric Vehicle.
-
 `2001–2004`
 __Two Rivers Montessori School__, Portland, OR
 - Board of Trustees
@@ -141,31 +148,6 @@ __Two Rivers Montessori School__, Portland, OR
 
 <!--
 ## References
-__Marshall Runkel__
-Chief of Staff for Chloe Eudaly, Commissioner, City of Portland
-- linkedin.com/in/marshall-runkel-8ba4ba1 
-- 503.823.3062 
-- marshall.runkel@portlandoregon.gov
--->
-
-<!--
-__Frank Dixon__
-State Party Chair (2013-2017), Democratic Party of Oregon
-- linkedin.com/in/frank-dixon-5831188
-- frank@fjdixon.com
--->
-
-<!--
-__Rob Harmon__
-CEO (former), EnergyRM Inc., Portland OR
-- linkedin.com/in/robharmon
-- RobHarmon@convenientOpportunities.com
--->
-
-<!--
-__Charles Hopewell__
-President/COO, Jewett-Cameron Trading Company Ltd.
-linkedin.com/in/charlie-hopewell-36bb2031 503.647.0110
 -->
 
 <!--## Recommendations
