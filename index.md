@@ -7,7 +7,7 @@ Serial entrepreneur & devotee of Sun-Tzu's manifesto "The Art of War". Excels at
 
 <div id="webaddress">
 <a href="adrianrf@gmail.com">My email</a>
-| <a href="https://github.com/adrianrf/markdown-cv/blob/master/index.md">My CV/Résumé</a>
+| <a href="http://bit.ly/ADRIANRF-CV">My CV/Résumé</a>
 </div>
 
 ### Specialized in
