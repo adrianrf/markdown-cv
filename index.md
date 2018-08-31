@@ -26,15 +26,15 @@ __Two Birds, One Stone__, Mesa, AZ
 
 `1998`
 Method for scanning, analyzing and rating digital information content
-(https://patents.google.com/patent/US6266664B1/en?oq=6266664) USPTO#: 6266664
+<a href="http://bit.ly/6266664">USPTO #6266664</a>
 
 `1997`
 Method for scanning, analyzing and handling various kinds of digital information content
-(https://patents.google.com/patent/US6675162B1/en?oq=6675162) USPTO#: 6675162
+<a href="http://bit.ly/6675162">USPTO #6675162</a>
 
 `1997`
 Rating and controlling access to emails
-(https://patents.google.com/patent/US6675162B1/en?oq=7130850) USPTO#: 7130850
+<a href="http://bit.ly/7130850">USPTO #7130850</a>
 
 ## Higher Education
 
