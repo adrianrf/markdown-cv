@@ -139,24 +139,31 @@ __Two Rivers Montessori School__, Portland, OR
 - Board of Trustees
 - One of 3 Board members who turned around not-for-profit private school from collapse, at 50% under-enrollment after staffing meltdown. We rapidly conceived, and successfully pitched to stakeholders, a compellingly bold and imaginative 5-Year Strategic Plan. We averted the crisis by hiring critical teaching and admin staff; reaffirming the school's positive reputation; retaining existing families while recruiting new students; and raising over $100K in new funds within 24 months. The school reached cash-positive operation within 3 years, with waiting lists for all classes.
 
+<!--
 ## References
 __Marshall Runkel__
 Chief of Staff for Chloe Eudaly, Commissioner, City of Portland
 - linkedin.com/in/marshall-runkel-8ba4ba1 
 - 503.823.3062 
 - marshall.runkel@portlandoregon.gov
+-->
 
+<!--
 __Frank Dixon__
 State Party Chair (2013-2017), Democratic Party of Oregon
 - linkedin.com/in/frank-dixon-5831188
 - frank@fjdixon.com
+-->
 
+<!--
 __Rob Harmon__
 CEO (former), EnergyRM Inc., Portland OR
 - linkedin.com/in/robharmon
 - RobHarmon@convenientOpportunities.com
+-->
 
-<!--__Charles Hopewell__
+<!--
+__Charles Hopewell__
 President/COO, Jewett-Cameron Trading Company Ltd.
 linkedin.com/in/charlie-hopewell-36bb2031 503.647.0110
 -->
