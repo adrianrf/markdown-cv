@@ -26,15 +26,15 @@ __Two Birds, One Stone__, Mesa, AZ
 
 `1998`
 Method for scanning, analyzing and rating digital information content
-<a href="http://bit.ly/6266664">USPTO #6266664</a>
+<a href="http://bit.ly/6266664">US #6266664</a>
 
 `1997`
 Method for scanning, analyzing and handling various kinds of digital information content
-<a href="http://bit.ly/6675162">USPTO #6675162</a>
+<a href="http://bit.ly/6675162">US #6675162</a>
 
 `1997`
 Rating and controlling access to emails
-<a href="http://bit.ly/7130850">USPTO #7130850</a>
+<a href="http://bit.ly/7130850">US #7130850</a>
 
 ## Higher Education
 
