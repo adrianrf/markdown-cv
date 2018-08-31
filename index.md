@@ -3,7 +3,7 @@ layout: cv
 title: Adrian Russell-Falla's CV
 ---
 # Adrian Russell-Falla
-Serial entrepreneur & devotee of Sun-Tzu's manifesto "The Art of War". Excels at identifying disruptive opportunities in business, technology, education & politics. Leadership skills, humor, infectious zeal consistently enable small teams to accomplish extraordinary goals.  
+Serial entrepreneur & devotee of Sun-Tzu. Excels at identifying disruptive opportunities in business, technology, education & politics. Interests include sustainability, transportation infrastructure electrification, distributed energy efficiency, renewable resources & storage, political science.
 
 <div id="webaddress">
 <a href="adrianrf@gmail.com">My email</a>
@@ -11,16 +11,14 @@ Serial entrepreneur & devotee of Sun-Tzu's manifesto "The Art of War". Excels at
 </div>
 
 ### Specialized in
-Transformational Leadership; Early-Stage Startups; Business Strategies; Strategic Partnerships; New Category Creation; Product/Service Launches
+Transformational leadership; early-stage startups; business strategies; strategic partnerships; new category creation; product/service launches
 
-### Research interests
-Categorization; Political Science; Sustainability; Transport Infrastructure Electrification; Distributed Energy Efficiency, Storage and Renewable Resources 
 
 ## Occupation ##
 `2018–Present`
 __Two Birds, One Stone__, Mesa, AZ
 - CEO/Founder
-- Consulting & catalysing business and not-for-profit organisations and opportunities, with particular focus on smart marketing of sustainability technologies, renewable energy, & accelerating electrification of the transportation sector. I’m all about seeing & seizing those synergistic opportunities for a double-dip win-win, and driving to power a big triple bottom line!
+- Consulting & catalysing for-profit and not-for-profit organisations and opportunities, with particular focus on smart marketing of sustainability technologies, renewable energy, & accelerating electrification of the transportation sector. Focused on seeing & seizing those synergistic opportunities for win-wins, and driving to power the triple bottom line.
 
 ## Patents ##
 
@@ -36,6 +34,7 @@ Method for scanning, analyzing and handling various kinds of digital information
 Rating and controlling access to emails
 <a href="http://bit.ly/7130850">US #7130850</a>
 
+<!--
 ## Higher Education
 
 `2006`
@@ -46,7 +45,7 @@ __Portland State University, Portland OR USA.__
 
 `1980-81`
 __Lewis & Clark College, Portland OR USA.__
-
+-->
 
 
 ## Work: Politics ##
@@ -54,12 +53,12 @@ __Lewis & Clark College, Portland OR USA.__
 `Sep 2016-Nov 2016`
 __Chloe Eudaly For City Council__, Portland, OR
 - Fulfilment Lead
-- Reported to Campaign Manager. Responsible for all door-to-door deliveries of collateral merchandise (T-shirts, buttons, etc.) and lawn signs to campaign donors. Fine-tuned CRM/fulfillment system functionality, transforming item order stream into inventory pick-lists & optimized delivery routes. All materials delivered via solar-PV-fueled zero-emissions Electric Vehicle.
+- Reported to Campaign Manager. Responsible for all door-to-door deliveries of collateral merchandise (T-shirts, buttons, etc.) and lawn signs to campaign donors. Fine-tuned CRM/fulfillment system functionality, transforming item order stream into inventory pick-lists & optimized delivery routes. All materials delivered on time, via solar-PV-fueled zero-emissions electric vehicle.
 
 `Mar 2004–Nov 2004`
 __GoPotterGo!-PAC__, Portland, OR
 - Organizer
-- Formed independent Political Action Committee, successfully propelling under-funded underdog mayoral candidate to victory. Raised funds; implemented guerrilla communications strategy, including full e-commerce; implemented PR campaign; designed creative; placed media buys; complied with all electoral regulations and reporting requirements. Result (Primary): executed $6K media spend in last 2 weeks (official campaign couldn't afford media). In 3 weeks from last published poll to ballot, swung race 11 pts to candidate, snatching 1st place from highly-funded "incumbent" opponent. Result (General): an October poll flagged that complacent post-Primary campaigning had completely eroded candidate's early lead. I immediately raised additional funds, and conceived & executed $8K GOTV/brand-association doorhanger campaign, reaching 35K households on opening weekend of vote-by-mail cycle. My PAC's highly-controversial cross-race endorsement captured a full week's news cycle&mdash;snatching easily $40K+ of earned media, taking my candidate to a 23-point victory (and earning the cross-race endorsee his seat too).
+- Formed independent Political Action Committee, successfully propelling underdog mayoral candidate to victory. Raised funds; implemented guerrilla communications strategy, including full e-commerce; implemented PR campaign; designed creative; placed media buys; complied with all electoral regulations and reporting requirements. Result (Primary): executed $6K media spend in last 2 weeks (official campaign couldn't afford media). In 3 weeks from last published poll to ballot, swung race 11 pts to candidate, snatching 1st place from highly-funded "incumbent" opponent. Result (General): an October poll flagged that complacent post-Primary campaigning had completely eroded candidate's early lead. I immediately raised additional funds, and conceived & executed $8K GOTV/brand-association doorhanger campaign, reaching 35K households on opening weekend of vote-by-mail cycle. My PAC's highly-controversial cross-race endorsement captured a full week's news cycle&mdash;snatching easily $40K+ of earned media, taking my candidate to a 23-point victory (and earning the cross-race endorsee his seat too).
 
 `Mar 2004–May 2004`
 __Frank Dixon for City Council__, Portland, OR
@@ -82,7 +81,7 @@ __Guernsey Anti-Apartheid Group__, Guernsey, Channel Islands (UK)
 `2015–2017`
 __Jewett-Cameron Trading Company Ltd. (NASDAQ: JCTCF)__, North Plains, OR
 - Member, Board of Directors
-- Invited by founder & CEO to join Board of a diversified multi-national ~$50M public company. Assigned to Audit and Compensation Committees. Advised on e-commerce & marketing strategies. Closely involved in search for new CEO, enabling founder to retire.
+- Invited by founder & CEO to join Board of a diversified multi-national ~$50M public company. Advised on e-commerce & marketing strategies. Appointed to Audit and Compensation Committees. Closely involved in search for new CEO, enabling founder to retire.
 
 `2011–2017`
 __Sarnian Solutions__, Portland, OR
@@ -112,7 +111,7 @@ __Collectability, Inc.__, Portland, OR
 `2005`
 __Liquid Markets, Inc.__, Portland, OR
 - CEO/Co-Founder
-- Raised $160K in venture capital in 90 days [on track for $1M total in next 60 days] at idea-stage company, using only a PowerPoint deck to woo & win commitment from a technology billionaire/Google seed investor. I apparently made it look so easy that the Founder/Majority shareholder was inspired to take over from there, since the venture's success was now clearly assured. Googling "Darple" (later branding) suggests otherwise…
+- Raised $160K in venture capital in 90 days [on track for $1M total in next 60 days] at idea-stage company, using only a PowerPoint deck to woo & win commitment from a technology billionaire/Google seed investor. Made it look so easy that the Founder/Majority shareholder was inspired to take over from there, since the venture's success was "now clearly assured". Googling "Darple" (later branding) suggests otherwise…
 
 `2004`
 __Lightfleet Corporation__, Vancouver, WA
@@ -146,9 +145,7 @@ __Two Rivers Montessori School__, Portland, OR
 - Board of Trustees
 - One of 3 Board members who turned around not-for-profit private school from collapse, at 50% under-enrollment after staffing meltdown. We rapidly conceived, and successfully pitched to stakeholders, a compellingly bold and imaginative 5-Year Strategic Plan. We averted the crisis by hiring critical teaching and admin staff; reaffirming the school's positive reputation; retaining existing families while recruiting new students; and raising over $100K in new funds within 24 months. The school reached cash-positive operation within 3 years, with waiting lists for all classes.
 
-<!--
-## References
--->
+## References on request
 
 <!--## Recommendations
 -->
